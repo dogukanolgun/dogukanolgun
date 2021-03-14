@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dogukanolgun
-- 👀 I’m interested in making projects that bring value to people's lives 
+- 👀 I’m interested in building projects that bring value to people's lives 
 
 <!---
 dogukanolgun/dogukanolgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
